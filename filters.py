@@ -6,7 +6,7 @@ import os
 from semantic_router.layer import RouteLayer
 import streamlit as st
 
-
+# This file contains the different routes and the category of it
 
 def start_router():
     owner = Route(
