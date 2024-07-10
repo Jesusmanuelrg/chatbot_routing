@@ -56,7 +56,11 @@ This project is a chatbot that leverages the Cohere LLM to answer research quest
 **Chatbot:** Warning: Please refrain from using discriminatory language. This is your first warning.
 
 ## Screenshots
-![Chatbot Interaction](path/to/your/image.png)
+![Chatbot Interaction](screenshots/picture_1.png)
+
+![Chatbot Interaction](screenshots/picture_2.png)
+
+![Chatbot Interaction](screenshots/picture_3.png)
 
 ## Contributing
 1. Fork the repository.
