@@ -12,11 +12,11 @@ This project is a chatbot that leverages the Cohere LLM to answer research quest
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/your-repo-name.git
+    git clone https://github.com/Jesusmanuelrg/chatbot_routing.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd your-repo-name
+    cd chatbot_routing
     ```
 3. Install dependencies:
     ```bash
@@ -30,7 +30,7 @@ This project is a chatbot that leverages the Cohere LLM to answer research quest
 ## Usage
 1. Start the chatbot:
     ```bash
-    python main.py
+    python home.py
     ```
 2. Interact with the chatbot via the provided interface.
 
